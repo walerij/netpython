@@ -1,0 +1,20 @@
+You IP : 192.168.56.1
+Enter the Starting Number: Enter the Last Number: Scanning in Progress:
+IP                 Status          Name            MAC
+['Обме\xad', 'п\xa0кет\xa0ми', 'с', '192.168.56.100', 'по', 'с', '32', 'б\xa0йт\xa0ми', 'д\xa0\xad\xadых:\n']
+['Обме\xad', 'п\xa0кет\xa0ми', 'с', 'US2', '[192.168.56.106]', 'с', '32', 'б\xa0йт\xa0ми', 'д\xa0\xad\xadых:\n']
+['Обме\xad', 'п\xa0кет\xa0ми', 'с', 'MONGOPC', '[192.168.56.112]', 'с', '32', 'б\xa0йт\xa0ми', 'д\xa0\xad\xadых:\n']
+192.168.56.100--> Ping Ok    192.168.56.100    08-00-27-c9-4e-3f
+192.168.56.106--> Ping Ok    US2    08-00-27-21-fc-4c
+192.168.56.112--> Ping Ok    MONGOPC    08-00-27-46-5a-52
+Find ip : 3
+Scanning completed in:  0:00:15.899871
+You IP : 192.168.56.1
+Enter the Starting Number: Enter the Last Number: Scanning in Progress:
+IP                 Status          Name            MAC
+['192.168.56.100', '08-00-27-c9-4e-3f', 'ди\xad', 'мический']
+['192.168.56.106', '08-00-27-21-fc-4c', 'ди\xad', 'мический']
+192.168.56.100--> Ping Ok    192.168.56.100    08-00-27-c9-4e-3f
+192.168.56.106--> Ping Ok    US2    08-00-27-21-fc-4c
+Find ip : 2
+Scanning completed in:  0:00:16.021679
